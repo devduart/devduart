@@ -22,3 +22,7 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DevDuart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walysson-duarte-56926471/)](https://www.linkedin.com/in/walysson-duarte-56926471/) 
 
 ![devduart github stats](https://github-readme-stats.vercel.app/api?username=devduart&show_icons=true&hide_border=true)
+
+
+
+**⭐️ From [DevDuart](https://github.com/devduart)**
