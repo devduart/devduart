@@ -10,7 +10,7 @@
 <p>
   <em>
     <b>I LIKE TO PROGRAM THINGS</b> <br>
-	Hello there! I'm Duart, sometimes also called DevDuart, a <b>full-stack developer</b> currently working part-time at for freelancing and developing my own ideas. I mostly do back-end work, in languages such as C# and JavaScript, but I also have some experience working on front-end development, specially with SCSS and Vue.js. 
+	Hello there! I'm Duarte, sometimes also called DevDuart, a <b>full-stack developer</b> currently working part-time at for freelancing and developing my own ideas. I mostly do back-end work, in languages such as C# and JavaScript, but I also have some experience working on front-end development, specially with SCSS and Vue.js. 
     </em>  
 </p>
 
