@@ -33,19 +33,19 @@
   
   <div style="display: inline_block">
     <h3> Skills: </h3>
-    <img align="center" alt="DevDuart-JS" height="30" width="40"  src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
-    <img align="center" alt="DevDuart-HTML" height="30" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img align="center" alt="DevDuart-CSS" height="30" width="40"  src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img align="center" alt="DevDuarts-Angular" height="30" width="40"  src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-    <img align="center" alt="DevDuarts-Ionic" height="30" width="40"  src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/>
-    <img align="center" alt="DevDuart-Java" height="30" width="40"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
-    <img align="center" alt="DevDuart-Spring height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-    <img align="center" alt="DevDuart-Python" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
-    <img align="center" alt="DevDuart-Postgres" height="30" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-    <img  align="center" alt="DevDuart-Mysql" height="30" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-    <img  align="center" alt="DevDuart-Kotlin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-    <img align="center" alt="DevDuart-Linux" height="30" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-    <img align="center" alt="DevDuart-Docker-m" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+    <img align="center" alt="DevDuart-JS" height="40" width="50"  src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+    <img align="center" alt="DevDuart-HTML" height="40" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img align="center" alt="DevDuart-CSS" height="40" width="50"  src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img align="center" alt="DevDuarts-Angular" height="40" width="50"  src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+    <img align="center" alt="DevDuarts-Ionic" height="40" width="50"  src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/>
+    <img align="center" alt="DevDuart-Java" height="40" width="50"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+    <img align="center" alt="DevDuart-Spring height="40" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    <img align="center" alt="DevDuart-Python" height="40" width="50" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+    <img align="center" alt="DevDuart-Postgres" height="40" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+    <img  align="center" alt="DevDuart-Mysql" height="40" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <img  align="center" alt="DevDuart-Kotlin" height="40" width="50" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+    <img align="center" alt="DevDuart-Linux" height="40" width="50" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+    <img align="center" alt="DevDuart-Docker-m" height="40" width="50" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
     
   </div>
   
