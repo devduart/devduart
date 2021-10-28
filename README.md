@@ -20,18 +20,15 @@
 - 😄 I'm mostly active within the **ArchLinux Community**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DevDuart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walysson-duarte-56926471/)](https://www.linkedin.com/in/walysson-duarte-56926471/) 
 
-  <br/> 
 
-  <div>
+  <div align="center">
   <a href="https://github.com/devduart">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devduart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devduart&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devduart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devduart&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 
- <br/> 
-  ##
   
-  <div style="display: inline_block">
+  <div style="display: inline_block"><br>
     <h3> Skills: </h3>
     <img align="center" alt="DevDuart-JS" height="40" width="50"  src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
     <img align="center" alt="DevDuart-HTML" height="40" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -49,6 +46,6 @@
     
   </div>
   
-  ##
+  
      
 **⭐️ From [DevDuart](https://github.com/devduart)**
