@@ -45,7 +45,10 @@
     <img align="center" alt="DevDuart-Docker-m" height="40" width="50" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
     
   </div>
-  
+ 
   
      
 **⭐️ From [DevDuart](https://github.com/devduart)**
+																
+ ##																
+ ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)																
