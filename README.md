@@ -15,7 +15,7 @@
 </p>
 
 - 🔭 Learning all about Open Source 
-- 🌱 I’m currently learning Java and Kotlin
+- 🌱 I’m currently learning Mobile Development
 - ⚡ Languages: Java, Kotlin, javascript, 
 - 😄 I'm mostly active within the **ArchLinux Community**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DevDuart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walysson-duarte-56926471/)](https://www.linkedin.com/in/walysson-duarte-56926471/) 
