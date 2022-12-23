@@ -16,7 +16,7 @@
 
 - 🔭 Learning all about Open Source 
 - 🌱 I’m currently learning Mobile Development
-- ⚡ Languages: Java, Kotlin, javascript, 
+- ⚡ Languages: Java, Kotlin 
 - 😄 I'm mostly active within the **ArchLinux Community**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DevDuart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walysson-duarte-56926471/)](https://www.linkedin.com/in/walysson-duarte-56926471/) 
 
@@ -30,11 +30,9 @@
   
   <div style="display: inline_block"><br>
     <h3> Skills: </h3>
-    <img align="center" alt="DevDuart-JS" height="40" width="50"  src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
     <img align="center" alt="DevDuart-HTML" height="40" width="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center" alt="DevDuart-CSS" height="40" width="50"  src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img align="center" alt="DevDuarts-Angular" height="40" width="50"  src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-    <img align="center" alt="DevDuarts-Ionic" height="40" width="50"  src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/>
     <img align="center" alt="DevDuart-Java" height="40" width="50"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
     <img align="center" alt="DevDuart-Spring height="40" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     <img align="center" alt="DevDuart-Postgres" height="40" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
