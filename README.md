@@ -3,7 +3,7 @@
 ## About Me  
 
 I love working on projects that challenge me to think creatively and collaborate with others to push the boundaries of what's possible in software development.  
-I thrive in dynamic environments where learning never stops, and I’m always exploring new paradigms like **functional programming**, **blockchain/Web3**, and **green software engineering**.  
+I thrive in dynamic environments where learning never stops, and I’m always exploring new paradigms like **functional programming**, **blockchain/Web3**.  
 
 ## Technical Skills  
 
